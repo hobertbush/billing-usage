@@ -26,7 +26,7 @@ You can easily update the payment method that is associated with your billable a
 
 Protecting your identity is a priority for us, so we take credit card verification seriously. The simplest way to resolve your issue is to contact us by using one of the following methods.  
 
-   * Call us: 1-866-325-0045 (Select option 3)
+   * Call us: 1-866-325-0045
    * Email us: verify@us.ibm.com
 
 ## Are feature codes the same as promo codes? 
